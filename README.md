@@ -28,7 +28,7 @@ This project involves analyzing coffee sales data to gain insights into product 
 - **Customer Analysis**: Identified top 5 customers based on total purchase amount.
 - **Country Analysis**: Created a  chart to visualize total sales by country.
 - **Total Sales Over Time**: Plotted a line chart to show total sales trends over time.
-
+![Screenshot (11)](https://github.com/Analystlekan/Coffee-sales-analysis/assets/172055479/49d439bc-99e6-473f-885a-05f86bf70c21)
 ### Step 4: Recommendations
 - **Key Insights**: Summarized findings such as, top customers, and high-performing countries and  product sales overtime.
 - **Recommendations**: Proposed strategies to enhance product offerings, customer engagement, and market penetration based on insights.
