@@ -1,50 +1,48 @@
 
-# Coffee Sales Analysis Project
 
+# Coffee Sales Dashboard
 
-## Overview
+## Introduction
 
-This project involves analyzing coffee sales data to gain insights into product performance, customer behavior, and sales trends across different countries. The dataset includes information about coffee products, customer demographics, order details, and sales figures. Using Microsoft Excel, various analytical techniques and visualizations were employed to explore data and derive actionable insights.
+In this data analysis project, I have created a comprehensive Excel dashboard to analyze coffee sales based on various attributes such as order details, customer information, and product specifics. The dataset includes information about order IDs, order dates, customer IDs, product IDs, quantities, customer names, emails, countries, coffee types, roast types, sizes, unit prices, and sales. The goal of this project is to gain insights into sales performance, customer behavior, and regional sales distribution.
 
-## Contents
+## Dataset Description
 
-1. **Data**: Contains the raw dataset used for analysis.
-2. **Analysis**: Includes Excel files with analysis sheets, charts, and pivot tables.
-3. **Reports**: Contains summary reports and presentations of key findings.
-4. **Documentation**: This README.md file provides an overview of the project.
+The dataset used for this project consists of the following columns:
+- **Order ID**: A unique identifier for each sales order.
+- **Order Date**: The date when the order was placed.
+- **Customer ID**: A unique identifier for each customer.
+- **Customer Name**: The name of the customer.
+- **Email**: The email address of the customer.
+- **Country**: The country where the sale was made.
+- **Coffee Type**: The type of coffee sold.
+- **Roast Type**: The roast type of the coffee (e.g., light, medium, dark).
+- **Size**: The size of the coffee product.
+- **Unit Price**: The price per unit of the coffee.
+- **Sales**: The total sales amount for the order.
 
-## Analysis Steps
+## Tools and Software
 
-### Step 1: Data Cleaning and Preparation
-- **Dataset**: Imported from a CSV file into Excel.
-- **Data Cleaning**: Removed duplicates, handled missing values, and ensured data consistency.
-- **Data Transformation**: Created calculated fields (e.g., total sales) for analysis.
+For this project, I used Microsoft Excel as the primary tool for data analysis and visualization. Excel provides a versatile and accessible platform for performing data analysis, creating charts, and building interactive dashboards.
 
-### Step 2: Exploratory Data Analysis (EDA)
-- **Descriptive Statistics**: Calculated summary statistics for sales figures, customer demographics, and product sales overtime.
-- **Visualizations**: Created charts (e.g., bar charts, pie charts) to visualize sales by product type, customer segments, and geographic distribution.
+## Expected Deliverables
 
-### Step 3: Sales Performance Analysis.
-- **Customer Analysis**: Identified top 5 customers based on total purchase amount.
-- **Country Analysis**: Created a  chart to visualize total sales by country.
-- **Total Sales Over Time**: Plotted a line chart to show total sales trends over time.
-![Screenshot (11)](https://github.com/Analystlekan/Coffee-sales-analysis/assets/172055479/49d439bc-99e6-473f-885a-05f86bf70c21)
-### Step 4: Recommendations
-- **Key Insights**: Summarized findings such as, top customers, and high-performing countries and  product sales overtime.
-- **Recommendations**: Proposed strategies to enhance product offerings, customer engagement, and market penetration based on insights.
+1. **Excel Dashboard**: The complete data analysis process, including data cleaning, transformation, and visualization.
+2. **Visualizations**: A variety of charts and graphs to support key findings and insights.
+3. **Final Report**: A comprehensive summary of the analysis, insights, and recommendations.
 
-## Report
+## Visualizations
 
-### Summary of Findings
-- **Top Customers**: Marguerite Graves,Terri Farra, Adrian Swaine,Adrian Swaine, and  Terri Farrawere the top 5 customers based on total purchase amount.
-- **Country Analysis**: The United States and ireland accounted for the highest total sales, followed by United kigdom.
-- **Total Sales Trend**: Overall, there was an upward trend in total sales over the past year, with notable spikes during holiday seasons.
+1. **Total Sales Over Time**: A line chart showing the total sales amount over time.
 
-### Recommendations
-- Implement customer retention strategies to maintain relationships with top customers.
-- Explore opportunities to expand operations in high-performing countries like the United States and ireland.
+   
+2. **Top 5 Customers**: A bar chart showing the top 5 customers based on total sales.
 
-## Future Enhancements
-- Incorporate predictive analytics to forecast seasonal sales trends.
-- Integrate external data sources (e.g., demographic data, competitor analysis) for deeper insights.
+   
+3. **Sales by Country**: A bar chart showing the distribution of sales across different countries.
+
+   
+## Conclusion
+
+This data analysis project in Excel provides valuable insights into coffee sales and customer demographics. The interactive visualizations help in understanding various aspects of sales performance, such as total sales over time, top customers, and sales distribution by country. By the end of the project, we aim to uncover actionable recommendations that can drive improvements in sales strategies and enhance customer targeting, all within the user-friendly environment of Excel.
 
