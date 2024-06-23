@@ -40,6 +40,7 @@ For this project, I used Microsoft Excel as the primary tool for data analysis a
 
    
 3. **Sales by Country**: A bar chart showing the distribution of sales across different countries.
+![Screenshot (5)](https://github.com/Analystlekan/Coffee-sales-analysis/assets/172055479/816d192b-80d8-47aa-9d08-8aa10cb78798)
 
    
 ## Conclusion
